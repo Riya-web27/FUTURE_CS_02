@@ -24,5 +24,6 @@ IP 192.168.0.1 identified as a consistent actor attempting unauthorized access
 Response payload analysis revealed consistent body sizes (~512 bytes)
 Visual dashboards showed scanning behavior and potential escalation attempts
 Mitigation strategies include response normalization and rate limiting
+
 📘 Developed as part of my cybersecurity internship at Future Interns.
 Feel free to explore or reach out for collaboration!
