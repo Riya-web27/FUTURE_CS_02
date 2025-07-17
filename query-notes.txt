@@ -1,0 +1,5 @@
+admin-probe-filter.kql – used to isolate failed access attempts to the /admin endpoint (403 responses)
+
+payload-analysis-query.kql – used to filter /admin probes and display response body bytes
+
+escalation-review.kql – captures repeated probe behavior for privilege escalation detection
